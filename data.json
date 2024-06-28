@@ -1,0 +1,122 @@
+{
+    "Makanan": [
+        {
+            "foto": "https://www.kitchensanctuary.com/wp-content/uploads/2020/07/Nasi-Goreng-square-FS-57.jpg",
+            "nama": "Nasi Goreng",
+            "size": "1 Mangkuk",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=nasi+goreng&tbm=shop"
+        },
+        {
+            "foto": "https://dcostseafood.id/wp-content/uploads/2021/12/Nasi-Ayam-Geprek-Sambal-Korek.jpg",
+            "nama": "Naasi Ayam Geprek",
+            "size": "1 Mangkuk",
+            "harga": "14.000",
+            "link": "https://www.google.com/search?q=nasi+ayam+geprek&tbm=shop"
+        },
+        {
+            "foto": "https://assets-pergikuliner.com/4o-dKncqKNS6QQbFDqM52WkrK0o=/fit-in/1366x768/smart/filters:no_upscale()/https://assets-pergikuliner.com/uploads/bootsy/image/12013/picture-1537766225.jpeg",
+            "nama": "Nasi Padang",
+            "size": "1 Mangkuk",
+            "harga": "12.000",
+            "link": "https://www.google.com/search?q=nasi+padang&tbm=shop"
+        },
+        {
+            "foto": "https://poshjournal.com/wp-content/uploads/2021/03/soto-ayam-recipe-16.jpg",
+            "nama": "Soto",
+            "size": "1 Mangkuk",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=soto&tbm=shop"
+        }
+    ],
+    "Minuman": [
+        {
+            "foto": "https://seilera.com/wp-content/uploads/2021/01/124631207_364509411547862_1404259131723716356_n.jpg",
+            "nama": "Es Teh",
+            "size": "600 ml",
+            "harga": "5.000",
+            "link": "https://www.google.com/search?q=es+teh&tbm=shop"
+        },
+        {
+            "foto": "https://shop.hypermart.co.id/hypermart/uploads/documents/37121249-AQUA-AIR-MINERAL-BTL-600-ML.jpg",
+            "nama": "Air Mineral",
+            "size": "600 ml",
+            "harga": "4.000",
+            "link": "https://www.google.com/search?q=air+mineral&tbm=shop"
+        },
+        {
+            "foto": "https://sgp1.digitaloceanspaces.com/tz-mag-id/wp-content/uploads/2020/08/020208081010/2-Es-Campur-Sinar-Garut.jpg",
+            "nama": "Es Campur",
+            "size": "1 Mangkuk",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=es+campur&tbm=shop"
+        },
+        {
+            "foto": "https://cdn.shopify.com/s/files/1/0762/2429/products/SummerLemonFSIT.jpg?v=1532636329",
+            "nama": "Lemon Tea",
+            "size": "600 ml",
+            "harga": "7.000",
+            "link": "https://www.google.com/search?q=lemon+tea&tbm=shop"
+        }
+    ],
+    "Cemilan": [
+        {
+            "foto": "https://www.topwisata.info/wp-content/uploads/2023/01/Dimsum-Ayam-Udang-1.jpg",
+            "nama": "Dimsum",
+            "size": "5 pcs",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=dimsum+udang&tbm=shop"
+        },
+        {
+            "foto": "https://4.bp.blogspot.com/-CsrrY7RLn2s/Ub3d227aisI/AAAAAAAABxk/E_40suoyQjQ/s1600/IMG_4591+(m).JPG",
+            "nama": "Pangsit",
+            "size": "5 pcs",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=pangsit+goreng&tbm=shop"
+        },
+        {
+            "foto": "https://www.masakapahariini.com/wp-content/uploads/2020/09/resep-bakso-goreng.jpg",
+            "nama": "Bakso Goreng",
+            "size": "5 pcs",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=bakso+goreng&tbm=shop"
+        },
+        {
+            "foto": "https://1.bp.blogspot.com/-vKvLovnQR2g/VVi1WwiheDI/AAAAAAAAArM/qsC8FSqRS-U/s1600/ROTI%2BBKR%2BKEJU1.jpg",
+            "nama": "Roti Bakar",
+            "size": "3 pcs",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=roti+bakar&tbm=shop"
+        }
+    ],
+    "Kopi": [
+        {
+            "foto": "https://www.ffactor.com/wp-content/uploads/2018/08/AdobeStock_202756131.jpeg",
+            "nama": "Cappucino",
+            "size": "180 ml",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=cappuccino+coffe&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/originals/84/8f/93/848f93df53ebb12817346bea375c2e5a.jpg",
+            "nama": "Americano",
+            "size": "350 ml",
+            "harga": "40.000",
+            "link": "https://www.google.com/search?q=americano+coffe&tbm=shop"
+        },
+        {
+            "foto": "https://www.2cupsofjoe.com/wp-content/uploads/2015/01/Espresso_La_Cimbali_1.jpg",
+            "nama": "Espresso",
+            "size": "60 ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=espresso+coffe&tbm=shop"
+        },
+        {
+            "foto": "https://mocktail.net/wp-content/uploads/2021/05/Matcha-Iced-Latte_ig-1024x1024.jpg",
+            "nama": "Matcha Latte",
+            "size": "350 ml",
+            "harga": "60.000",
+            "link": "https://www.google.com/search?q=latte+matcha&tbm=shop"
+        }
+    ]
+}
